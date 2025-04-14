@@ -1,6 +1,6 @@
 # Blog Application 📝
 
-This is a full-featured **Blog Application** built using **Spring Boot**, following the tutorial series by *Durgesh (CodeWithDurgesh)* on YouTube.
+This is a full-featured **Blog Application** built using **Spring Boot**.
 
 ## 📌 Features
 
